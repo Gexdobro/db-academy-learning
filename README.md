@@ -1,2 +1,2 @@
-# db_academy_learning
-Databricks Academy
+# db-academy-learning
+Databricks Academy github repos testing repository
